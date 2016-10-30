@@ -1,0 +1,3 @@
+gnore npm modules.
+node_modules
+.DS_Store
