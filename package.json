@@ -5,7 +5,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "bcrypt": "^0.8.7",
+    "bcrypt": "^5.0.0",
     "body-parser": "1.15.2",
     "express": "^4.14.0",
     "express-react-views": "^0.10.2",
